@@ -22,3 +22,8 @@
 - Place: Gdańsk, Poland
 - Bio: Design and engineering. I love math and physics. I also love coffee, tea, yoga, good books, great music and silent meditation while.
 - GitHub: [RootPixl](https://github.com/RootPixl)
+
+#### Name: [Rudra Narayan Bhuyan](https://github.com/Rudra0110).
+-Place: India.
+-Bio: I am a undergraduate student.
+Github: [Rudra Narayan Bhuyan].(https://github.com/Rudra0110).
