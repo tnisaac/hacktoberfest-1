@@ -21,7 +21,7 @@
 #### Name: [Ricky](https://github.com/RickyHempel)
 - Place: U.S.
 - Bio: - 
-- GitHub: [Ricky Hempel] (https://github.com/RickyHempel).
+- GitHub: [Ricky Hempel](https://github.com/RickyHempel).
 
 #### Name: [Konrad Klawikowski](https://github.com/RootPixl)
 - Place: Gdańsk, Poland
