@@ -1,6 +1,7 @@
 # HACKTOBERFEST 2018 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/abaykan/)
 [![GitHub issues](https://img.shields.io/github/issues/abaykan/hacktoberfest.svg)](https://github.com/abaykan/hacktoberfest/issues)
+[![HitCount](http://hits.dwyl.io/abaykan/hacktoberfest.svg)](http://hits.dwyl.io/abaykan/hacktoberfest)
 [![GitHub forks](https://img.shields.io/github/forks/abaykan/hacktoberfest.svg)](https://github.com/abaykan/hacktoberfest/network)
 [![GitHub stars](https://img.shields.io/github/stars/abaykan/hacktoberfest.svg)](https://github.com/abaykan/hacktoberfest/stargazers)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/abaykan/hacktoberfest.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fabaykan%2Fhacktoberfest)
