@@ -26,7 +26,12 @@
 #### Name: [Konrad Klawikowski](https://github.com/RootPixl)
 - Place: Gdańsk, Poland
 - Bio: Design and engineering. I love math and physics. I also love coffee, tea, yoga, good books, great music and silent meditation while.
-- GitHub: [RootPixl](https://github.com/RootPixl).
+- GitHub: [RootPixl](https://github.com/RootPixl)
+
+#### Name: [Rudra Narayan Bhuyan](https://github.com/Rudra0110).
+- Place: India.
+- Bio: I am a undergraduate student.I love to play.
+- Github: [Rudra Narayan Bhuyan](https://github.com/Rudra0110).
 
 #### Name: [Chypsylon](https://github.com/Chypsylon)
 - Place: Graz, Austria
@@ -37,4 +42,3 @@
 - Place: Southern California
 - Bio: Just a student who is interested in Web Design and Programming. I have many limitations to reach to the great beyond, but working on it.
 - GitHub: [Hozay](https://github.com/JosChavz)
-
