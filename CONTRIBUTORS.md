@@ -32,3 +32,9 @@
 - Place: Graz, Austria
 - Bio: CS Student
 - GitHub: [Chypsylon](https://github.com/Chypsylon)
+
+#### Name: [Jose](https://github.com/JosChavz)
+- Place: Southern California
+- Bio: Just a student who is interested in Web Design and Programming. I have many limitations to reach to the great beyond, but working on it.
+- GitHub: [Hozay](https://github.com/JosChavz)
+
