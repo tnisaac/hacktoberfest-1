@@ -47,3 +47,8 @@
 - Place: India/
 - Bio: 
 - Github: [Namasya](https://github.com/Namasya)
+
+#### Name: [Luis Beltran](https://github.com/icebeam7)
+- Place: Zlín, Czech Republic
+- Bio: PhD student who enjoys developing mobile and cloud applications. 
+- GitHub: [Luis Beltran](https://github.com/icebeam7)
