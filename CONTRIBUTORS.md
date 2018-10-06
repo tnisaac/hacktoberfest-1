@@ -52,3 +52,9 @@
 - Place: Zlín, Czech Republic
 - Bio: PhD student who enjoys developing mobile and cloud applications. 
 - GitHub: [Luis Beltran](https://github.com/icebeam7)
+
+#### Name: [Esau Silva](https://github.com/esausilva)
+- Place: Mission, TX, USA
+- Bio: Full Stack Software Engineer and avid Brazilian Jiu-Jitsu practitioner
+- GitHub: [Esau Silva](https://github.com/esausilva)
+
