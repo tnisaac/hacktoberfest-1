@@ -42,3 +42,8 @@
 - Place: Southern California
 - Bio: Just a student who is interested in Web Design and Programming. I have many limitations to reach to the great beyond, but working on it.
 - GitHub: [Hozay](https://github.com/JosChavz)
+
+#### Name: [Namasya](https://github.com/Namasya)
+- Place: India/
+- Bio: 
+- Github: [Namasya](https://github.com/Namasya)
