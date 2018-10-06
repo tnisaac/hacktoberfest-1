@@ -27,3 +27,8 @@
 - Place: Gdańsk, Poland
 - Bio: Design and engineering. I love math and physics. I also love coffee, tea, yoga, good books, great music and silent meditation while.
 - GitHub: [RootPixl](https://github.com/RootPixl).
+
+#### Name: [Chypsylon](https://github.com/Chypsylon)
+- Place: Graz, Austria
+- Bio: CS Student
+- GitHub: [Chypsylon](https://github.com/Chypsylon)
