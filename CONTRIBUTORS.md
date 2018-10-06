@@ -25,5 +25,5 @@
 
 #### Name: [Rudra Narayan Bhuyan](https://github.com/Rudra0110).
 - Place: India.
-- Bio: I am a undergraduate student.
+- Bio: I am a undergraduate student.I love to play.
 - Github: [Rudra Narayan Bhuyan].(https://github.com/Rudra0110).
