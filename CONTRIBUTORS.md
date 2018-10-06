@@ -24,6 +24,6 @@
 - GitHub: [RootPixl](https://github.com/RootPixl)
 
 #### Name: [Rudra Narayan Bhuyan](https://github.com/Rudra0110).
--Place: India.
--Bio: I am a undergraduate student.
-Github: [Rudra Narayan Bhuyan].(https://github.com/Rudra0110).
+- Place: India.
+- Bio: I am a undergraduate student.
+- Github: [Rudra Narayan Bhuyan].(https://github.com/Rudra0110).
