@@ -10,17 +10,17 @@
 
 #### Name: [SRP](https://github.com/srprescott)
 - Place: U.S.
-- Bio: - 
+- Bio: -
 - GitHub: [SRPrescott](https://github.com/srprescott).
 
 #### Name: [Siddhant](https://github.com/sziddhant)
 - Place: India.
-- Bio: - 
+- Bio: -
 - GitHub: [sziddhant](https://github.com/sziddhant).
 
 #### Name: [Ricky](https://github.com/RickyHempel)
 - Place: U.S.
-- Bio: - 
+- Bio: -
 - GitHub: [Ricky Hempel](https://github.com/RickyHempel).
 
 #### Name: [Konrad Klawikowski](https://github.com/RootPixl)
@@ -45,12 +45,12 @@
 
 #### Name: [Namasya](https://github.com/Namasya)
 - Place: India/
-- Bio: 
+- Bio:
 - Github: [Namasya](https://github.com/Namasya)
 
 #### Name: [Luis Beltran](https://github.com/icebeam7)
 - Place: Zlín, Czech Republic
-- Bio: PhD student who enjoys developing mobile and cloud applications. 
+- Bio: PhD student who enjoys developing mobile and cloud applications.
 - GitHub: [Luis Beltran](https://github.com/icebeam7)
 
 #### Name: [Esau Silva](https://github.com/esausilva)
@@ -58,3 +58,7 @@
 - Bio: Full Stack Software Engineer and avid Brazilian Jiu-Jitsu practitioner
 - GitHub: [Esau Silva](https://github.com/esausilva)
 
+#### Name: [Kheyra Santos](https://github.com/kheyra)
+- Place: Florida
+- Bio: Just your friendly neighborhood programmer
+- GitHub: [Kheyra Santos](https://github.com/kheyrasantos)
