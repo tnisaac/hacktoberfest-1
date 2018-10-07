@@ -62,3 +62,8 @@
 - Place: Florida
 - Bio: Just your friendly neighborhood programmer
 - GitHub: [Kheyra Santos](https://github.com/kheyrasantos)
+
+#### Name: [Bishal](https://github.com/kiminohero)
+- Place: India
+- Bio: Undergraduate
+- GitHub: [kiminohero](https://github.com/kiminohero)
