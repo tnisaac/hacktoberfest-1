@@ -67,3 +67,8 @@
 - Place: Germany
 - Bio: -
 - GitHub: [Paul Richter](https://github.com/richtepa)
+
+#### Name: [Bishal](https://github.com/kiminohero)
+- Place: India
+- Bio: Undergraduate
+- GitHub: [kiminohero](https://github.com/kiminohero)
