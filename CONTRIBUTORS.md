@@ -67,3 +67,13 @@
 - Place: Indonesia
 - Bio: Keep learning in the programmer and become IT Developer
 - GitHub: [Alfansuri](https://github.com/Alfansuri)
+
+#### Name: [Paul Richter](https://github.com/richtepa)
+- Place: Germany
+- Bio: -
+- GitHub: [Paul Richter](https://github.com/richtepa)
+
+#### Name: [Bishal](https://github.com/kiminohero)
+- Place: India
+- Bio: Undergraduate
+- GitHub: [kiminohero](https://github.com/kiminohero)
