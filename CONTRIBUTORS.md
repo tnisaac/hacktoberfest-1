@@ -7,3 +7,8 @@
 - Place: Indonesia.
 - Bio: -
 - GitHub: [I Kadek Mahardika](https://github.com/kadekmahardika).
+
+#### Name: [Davide](https://github.com/dgavio)
+- Place: Italy, Alessandria
+- Bio: Currently a Computer Science master degree student
+- GitHub: [dgavio](https://github.com/dgavio)
