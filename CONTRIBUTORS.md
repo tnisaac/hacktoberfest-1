@@ -66,4 +66,4 @@
 #### Name: [Alfansuri](https://github.com/Alfansuri)
 - Place: Indonesia
 - Bio: Keep learning in the programmer and become IT Developer
-- GitHub: [Alfansuri]((https://github.com/Alfansuri)
+- GitHub: [Alfansuri](https://github.com/Alfansuri)
