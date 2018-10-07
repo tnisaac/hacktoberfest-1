@@ -77,3 +77,8 @@
 - Place: India
 - Bio: Undergraduate
 - GitHub: [kiminohero](https://github.com/kiminohero)
+
+#### Name: [Axel Rammon](https://github.com/axelrammon)
+- Place: Rio Grande do Norte, Brasil
+- Bio: Student
+- GitHub: [axelrammon](https://github.com/axelrammon)
