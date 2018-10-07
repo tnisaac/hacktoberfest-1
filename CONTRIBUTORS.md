@@ -63,6 +63,11 @@
 - Bio: Just your friendly neighborhood programmer
 - GitHub: [Kheyra Santos](https://github.com/kheyrasantos)
 
+#### Name: [Paul Richter](https://github.com/richtepa)
+- Place: Germany
+- Bio: -
+- GitHub: [Paul Richter](https://github.com/richtepa)
+
 #### Name: [Bishal](https://github.com/kiminohero)
 - Place: India
 - Bio: Undergraduate
