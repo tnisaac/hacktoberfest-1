@@ -62,3 +62,8 @@
 - Place: Florida
 - Bio: Just your friendly neighborhood programmer
 - GitHub: [Kheyra Santos](https://github.com/kheyrasantos)
+
+#### Name: [Alfansuri](https://github.com/Alfansuri)
+- Place: Indonesia
+- Bio: Keep learning in the programmer and become IT Developer
+- GitHub: [Alfansuri]((https://github.com/Alfansuri)
