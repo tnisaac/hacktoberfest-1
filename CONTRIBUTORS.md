@@ -87,3 +87,8 @@
 - Place: Rio Grande do Norte, Brasil
 - Bio: Student
 - GitHub: [axelrammon](https://github.com/axelrammon)
+
+#### Name: [Lucas Brabec](https://github.com/Brabec)
+- Place: Aracaju, Sergipe, Brazil
+- Bio: Computer Science Student
+- GitHub: [Brabec](https://github.com/Brabec)
