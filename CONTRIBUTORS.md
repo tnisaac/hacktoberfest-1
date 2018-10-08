@@ -97,4 +97,7 @@
 - Place: Aracaju, Sergipe, Brazil
 - Bio: Computer Science Student
 - GitHub: [Brabec](https://github.com/Brabec)
-
+#### Name: [JanakPoojary](https://github.com/JanakPoojary)
+- Place: Vadodara, Gujarat, India
+- Bio: Currently a Computer engineering bachelor degree student
+- GitHub: [JanakPoojary](https://github.com/JanakPoojary)
