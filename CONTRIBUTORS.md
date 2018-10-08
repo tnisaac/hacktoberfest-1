@@ -1,7 +1,7 @@
-#### Name: [Abay](https://github.com/abaykan/)
-- Place: Indonesia
-- Bio: Proudly Owner of [Codelatte Indonesia](https://codelatte.org/).
-- GitHub: [Abay](https://github.com/abaykan/)
+﻿#### Name: [Pranit](https://github.com/pb-10)
+- Place: India
+- Bio: Aspiring Coder
+- GitHub: [pb-10](https://github.com/pb-10)
 
 #### Name: [I Kadek Mahardika](https://github.com/kadekmahardika)
 - Place: Indonesia.
