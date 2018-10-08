@@ -127,3 +127,8 @@
 - Place: Vadodara, Gujarat, India
 - Bio: Computer Science Student
 - GitHub: [Devamjoshi3](https://github.com/Devamjoshi3)
+
+#### Name: [MariyaAsterisk](https://github.com/MariyaAsterisk)
+- Place: Kazan,Russia
+- Bio: VoIP engineer
+- GitHub: [MariyaAsterisk](https://github.com/MariyaAsterisk)
