@@ -1,16 +1,16 @@
 #### Name: [Mukhammad Akbar](https://codelatte.org/)
 - Place: Indonesiea
-- Bio: Proudly Owner if [Codelatte Indonesia](https://github.com/c0delatte)
+- Bio: Proudly Owner if [Codelatte Indonesia](https://github.com/c0delatte).
 - GitHub: [Abay](https://github.com/abaykan)
 
 #### Name: [Herman](https://0dayherman.ooo)
 - Place: Indonesia
-- Bio: One mistake can make your crazy
+- Bio: One mistake can make you crazy.
 - GitHub: [0dayherman](https://github.com/0dayherman)
 
 #### Name: [Pranit](https://github.com/pb-10)
 - Place: India
-- Bio: Aspiring Coder
+- Bio: Aspiring Coder.
 - GitHub: [pb-10](https://github.com/pb-10)
 
 #### Name: [I Kadek Mahardika](https://github.com/kadekmahardika)
@@ -20,7 +20,7 @@
 
 #### Name: [Davide](https://github.com/dgavio)
 - Place: Italy, Alessandria
-- Bio: Currently a Computer Science master degree student
+- Bio: Currently a Computer Science master degree student.
 - GitHub: [dgavio](https://github.com/dgavio)
 
 #### Name: [SRP](https://github.com/srprescott)
