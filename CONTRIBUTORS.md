@@ -1,7 +1,7 @@
-#### Name: [Nandan Kalaria](https://github.com/NandanKalaria)
-- Place: Vadodara, Gujarat, India
-- Bio: I am a student
-- GitHub: [NandanKalaria](https://github.com/NandanKalaria)
+#### Name: [Mukhammad Akbar](https://codelatte.org/)
+- Place: Indonesiea
+- Bio: Proudly Owner if [Codelatte Indonesia](https://github.com/c0delatte)
+- GitHub: [Abay](https://github.com/abaykan)
 
 #### Name: [Pranit](https://github.com/pb-10)
 - Place: India
