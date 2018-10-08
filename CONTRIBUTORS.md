@@ -88,7 +88,13 @@
 - Bio: Student
 - GitHub: [axelrammon](https://github.com/axelrammon)
 
+#### Name: [Sittichoke Krongboon](https://github.com/sittichoke)
+- Place: Thailand
+- Bio: Programmer PHP, Angular, nodejs
+- GitHub: [Sittichoke Krongboon](https://github.com/sittichoke)
+
 #### Name: [Lucas Brabec](https://github.com/Brabec)
 - Place: Aracaju, Sergipe, Brazil
 - Bio: Computer Science Student
 - GitHub: [Brabec](https://github.com/Brabec)
+
