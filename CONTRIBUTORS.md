@@ -142,3 +142,8 @@
 - Place: VAdodara, Gujarat, India
 - Bio: Computer Science student
 - GitHub: [nikki003](https://github.com/nikki003)
+
+#### Name: [Stephanie Velazquez](https://git.io/fxZKg)
+- Place: San Antonio, Texas
+- Bio: Full Stack Developer, proud owner of 2 cat daughters.
+- Github: [svelazquez](https://git.io/fxZKg)
