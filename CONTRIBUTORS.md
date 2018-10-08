@@ -1,4 +1,4 @@
-#### Name: [Abay](https://github.com/abaykan/)
+﻿#### Name: [Abay](https://github.com/abaykan/)
 - Place: Indonesia
 - Bio: Proudly Owner of [Codelatte Indonesia](https://codelatte.org/).
 - GitHub: [Abay](https://github.com/abaykan/)
@@ -98,3 +98,7 @@
 - Bio: Computer Science Student
 - GitHub: [Brabec](https://github.com/Brabec)
 
+#### Name: [Jay Patel](https://github.com/JYP2098)
+- Place: Vadodara, Gujarat, India
+- Bio: BE Student
+- GitHub: [JYP2098](https://github.com/JYP2098)
