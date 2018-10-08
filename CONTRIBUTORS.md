@@ -101,3 +101,7 @@
 - Place: Vadodara, Gujarat, India
 - Bio: Currently a Computer engineering bachelor degree student
 - GitHub: [JanakPoojary](https://github.com/JanakPoojary)
+#### Name: [JanakPoojary](https://github.com/JanakPoojary)
+- Place: Vadodara, Gujarat, India
+- Bio: Currently a Computer engineering bachelor degree student.I am an svit Student. I love svit college
+- GitHub: [JanakPoojary](https://github.com/JanakPoojary)
