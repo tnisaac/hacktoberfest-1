@@ -98,11 +98,21 @@
 - Bio: Computer Science Student
 - GitHub: [Brabec](https://github.com/Brabec)
 
+#### Name: [JanakPoojary](https://github.com/JanakPoojary)
+- Place: Vadodara, Gujarat, India
+- Bio: Currently a Computer engineering bachelor degree student
+- GitHub: [JanakPoojary](https://github.com/JanakPoojary)
+
+#### Name: [JanakPoojary](https://github.com/JanakPoojary)
+- Place: Vadodara, Gujarat, India
+- Bio: Currently a Computer engineering bachelor degree student.I am an svit Student. I love svit college
+- GitHub: [JanakPoojary](https://github.com/JanakPoojary)
+
 #### Name: [Jay Patel](https://github.com/JYP2098)
 - Place: Vadodara, Gujarat, India
 - Bio: BE Student
 - GitHub: [JYP2098](https://github.com/JYP2098)
-=======
+
 #### Name: [Devam Joshi](https://github.com/Devamjoshi3)
 - Place: Vadodara, Gujarat, India
 - Bio: Computer Science Student
