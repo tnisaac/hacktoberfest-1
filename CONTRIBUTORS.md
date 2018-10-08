@@ -1,4 +1,9 @@
-﻿#### Name: [Pranit](https://github.com/pb-10)
+#### Name: [Nandan Kalaria](https://github.com/NandanKalaria)
+- Place: Vadodara, Gujarat, India
+- Bio: I am a student
+- GitHub: [NandanKalaria](https://github.com/NandanKalaria)
+
+#### Name: [Pranit](https://github.com/pb-10)
 - Place: India
 - Bio: Aspiring Coder
 - GitHub: [pb-10](https://github.com/pb-10)
