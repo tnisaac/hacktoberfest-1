@@ -1,4 +1,4 @@
-#### Name: [Abay](https://github.com/abaykan/)
+﻿#### Name: [Abay](https://github.com/abaykan/)
 - Place: Indonesia
 - Bio: Proudly Owner of [Codelatte Indonesia](https://codelatte.org/).
 - GitHub: [Abay](https://github.com/abaykan/)
@@ -38,10 +38,10 @@
 - Bio: I am a undergraduate student.I love to play.
 - Github: [Rudra Narayan Bhuyan](https://github.com/Rudra0110).
 
-#### Name: [Chypsylon](https://github.com/Chypsylon)
-- Place: Graz, Austria
+#### Name: [soham bodas](https://github.com/sohambodas)
+- Place: india
 - Bio: CS Student
-- GitHub: [Chypsylon](https://github.com/Chypsylon)
+- GitHub: [sohambodas](https://github.com/sohambodas)
 
 #### Name: [Jose](https://github.com/JosChavz)
 - Place: Southern California
@@ -97,4 +97,3 @@
 - Place: Aracaju, Sergipe, Brazil
 - Bio: Computer Science Student
 - GitHub: [Brabec](https://github.com/Brabec)
-
