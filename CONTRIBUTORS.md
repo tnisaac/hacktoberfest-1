@@ -98,3 +98,7 @@
 - Bio: Computer Science Student
 - GitHub: [Brabec](https://github.com/Brabec)
 
+#### Name: [Devam Joshi](https://github.com/Devamjoshi3)
+- Place: Vadodara, Gujarat, India
+- Bio: Computer Science Student
+- GitHub: [Devamjoshi3](https://github.com/Devamjoshi3)
