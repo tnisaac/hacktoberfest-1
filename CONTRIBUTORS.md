@@ -128,6 +128,11 @@
 - Bio: Computer Science Student
 - GitHub: [Devamjoshi3](https://github.com/Devamjoshi3)
 
+#### Name: [Vaibhav](https://github.com/vaibhav111tandon)
+- Place: India
+- Bio: Student
+- Github: [vaibhav111tandon](https://github.com/vaibhav111tandon)
+
 #### Name: [NIKKI BHALODIYA](https://github.com/nikki003)
 - Place: VAdodara, Gujarat, India
 - Bio: Computer Science student
