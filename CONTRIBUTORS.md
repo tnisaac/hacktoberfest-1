@@ -147,3 +147,8 @@
 - Place: San Antonio, Texas
 - Bio: Full Stack Developer, proud owner of 2 cat daughters.
 - Github: [svelazquez](https://git.io/fxZKg)
+
+#### Name: [Pannatat Supharatnodom](https://github.com/thepriefy)
+- Place: Bangkok Thailand
+- Bio: Front-end web developer
+- Github: [thepriefy](https://github.com/thepriefy)
