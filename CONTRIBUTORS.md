@@ -152,3 +152,8 @@
 - Place: Bangkok Thailand
 - Bio: Front-end web developer
 - Github: [thepriefy](https://github.com/thepriefy)
+
+#### Name: [aidakarimova](https://github.com/aidakarimova)
+- Place: Russia Kazan 
+- Bio: analysis
+- Github: [thepriefy](https://github.com/aidakarimova)
