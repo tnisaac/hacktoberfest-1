@@ -158,7 +158,7 @@
 - Bio: analysis
 - Github: [thepriefy](https://github.com/aidakarimova)
 
-#### Name: [aidakarimova](https://github.com/baonguyen1320)
+#### Name: [Bao Nguyen](https://github.com/baonguyen1320)
 - Place: HoChiMinh, VietNam 
 - Bio: Developer
 - Github: [baonguyen1320](https://github.com/baonguyen1320)
