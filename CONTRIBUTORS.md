@@ -168,6 +168,11 @@
 - Bio: Developer
 - GitHub: [revenantkoi](https://github.com/revenantkoi)
 
+#### Name: [T1grOK](https://github.com/T1grOK)
+- Place: Russia, Kazan
+- Bio: Web developer
+- GitHub: [T1grOK](https://github.com/T1grOK)
+
 #### Name: [RAVI GUPTA](https://github.com/guptaravi540)
 - Place: INDIA
 - Bio: Software Developer
