@@ -167,3 +167,8 @@
 - Place: SC, USA
 - Bio: Developer
 - GitHub: [revenantkoi](https://github.com/revenantkoi)
+
+#### Name: [Elisheba Trinity](https://github.com/LishiTrinity)
+- Place:  New Mexico, USA
+- Bio: Front-end web developer
+- GitHub: [LishiTrinity](https://github.com/LishiTrinity)
