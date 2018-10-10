@@ -1,12 +1,12 @@
-#### Name: [Egi Nugraha](https://eginugraha.com/)
-- Place: Bandung, Indonesia
-- Bio: i love code and design, thanks..
-- GitHub: [eginugraha](https://github.com/eginugraha)
-
 #### Name: [Mukhammad Akbar](https://codelatte.org/)
 - Place: Indonesiea
 - Bio: Proudly Owner if [Codelatte Indonesia](https://github.com/c0delatte).
 - GitHub: [Abay](https://github.com/abaykan)
+
+#### Name: [Egi Nugraha](https://eginugraha.com/)
+- Place: Bandung, Indonesia
+- Bio: i love code and design, thanks..
+- GitHub: [eginugraha](https://github.com/eginugraha)
 
 #### Name: [Herman](https://0dayherman.ooo)
 - Place: Indonesia
