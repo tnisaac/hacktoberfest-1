@@ -172,3 +172,18 @@
 - Place: U.S.
 - Bio: aspiring web developer
 - GitHub: [capturethemoon](https://github.com/capturethemoon)
+
+#### Name: [T1grOK](https://github.com/T1grOK)
+- Place: Russia, Kazan
+- Bio: Web developer
+- GitHub: [T1grOK](https://github.com/T1grOK)
+
+#### Name: [RAVI GUPTA](https://github.com/guptaravi540)
+- Place: INDIA
+- Bio: Software Developer
+- GitHub: [guptaravi540](https://github.com/guptaravi540)
+
+#### Name: [Elisheba Trinity](https://github.com/LishiTrinity)
+- Place:  New Mexico, USA
+- Bio: Front-end web developer
+- GitHub: [LishiTrinity](https://github.com/LishiTrinity)
