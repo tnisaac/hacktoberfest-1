@@ -167,3 +167,8 @@
 - Place: SC, USA
 - Bio: Developer
 - GitHub: [revenantkoi](https://github.com/revenantkoi)
+
+#### Name: [T1grOK](https://github.com/T1grOK)
+- Place: Russia, Kazan
+- Bio: Web developer
+- GitHub: [T1grOK](https://github.com/T1grOK)
