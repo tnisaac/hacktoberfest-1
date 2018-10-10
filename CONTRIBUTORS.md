@@ -172,3 +172,8 @@
 - Place: INDIA
 - Bio: Software Developer
 - GitHub: [guptaravi540](https://github.com/guptaravi540)
+
+#### Name: [Elisheba Trinity](https://github.com/LishiTrinity)
+- Place:  New Mexico, USA
+- Bio: Front-end web developer
+- GitHub: [LishiTrinity](https://github.com/LishiTrinity)
