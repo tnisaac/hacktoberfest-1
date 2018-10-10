@@ -168,6 +168,11 @@
 - Bio: Developer
 - GitHub: [revenantkoi](https://github.com/revenantkoi)
 
+#### Name: [capturethemoon](https://github.com/capturethemoon)
+- Place: U.S.
+- Bio: aspiring web developer
+- GitHub: [capturethemoon](https://github.com/capturethemoon)
+
 #### Name: [T1grOK](https://github.com/T1grOK)
 - Place: Russia, Kazan
 - Bio: Web developer
