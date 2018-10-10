@@ -1,8 +1,3 @@
-#### Name: [RAVI GUPTA](https://github.com/guptaravi540)
-- Place: INDIA
-- Bio: Software Developer
-- GitHub: [guptaravi540](https://github.com/guptaravi540)
-
 #### Name: [Mukhammad Akbar](https://codelatte.org/)
 - Place: Indonesiea
 - Bio: Proudly Owner if [Codelatte Indonesia](https://github.com/c0delatte).
@@ -172,3 +167,8 @@
 - Place: SC, USA
 - Bio: Developer
 - GitHub: [revenantkoi](https://github.com/revenantkoi)
+
+#### Name: [RAVI GUPTA](https://github.com/guptaravi540)
+- Place: INDIA
+- Bio: Software Developer
+- GitHub: [guptaravi540](https://github.com/guptaravi540)
