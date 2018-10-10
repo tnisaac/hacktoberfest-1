@@ -192,3 +192,8 @@
 - Place:  New Mexico, USA
 - Bio: Front-end web developer
 - GitHub: [LishiTrinity](https://github.com/LishiTrinity)
+
+#### Name: [Elaine Akemi](https://github.com/elaineakemi)
+- Place:  Dublin, Ireland
+- Bio: Software Developer
+- GitHub: [elaineakemi](https://github.com/elaineakemi)
