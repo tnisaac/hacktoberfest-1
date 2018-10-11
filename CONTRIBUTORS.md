@@ -1,3 +1,8 @@
+#### Name: [Dwiky Chandra](https://github.com/dwikychandra21)
+- Place: Indonesia
+- Bio: Student and Frontend Developer
+- GitHub: [dwikychandra21](https://github.com/dwikychandra21)
+
 #### Name: [Mukhammad Akbar](https://codelatte.org/)
 - Place: Indonesiea
 - Bio: Proudly Owner if [Codelatte Indonesia](https://github.com/c0delatte).
@@ -159,12 +164,12 @@
 - Github: [thepriefy](https://github.com/thepriefy)
 
 #### Name: [aidakarimova](https://github.com/aidakarimova)
-- Place: Russia Kazan 
+- Place: Russia Kazan
 - Bio: analysis
 - Github: [thepriefy](https://github.com/aidakarimova)
 
 #### Name: [Bao Nguyen](https://github.com/baonguyen1320)
-- Place: HoChiMinh, VietNam 
+- Place: HoChiMinh, VietNam
 - Bio: Developer
 - Github: [baonguyen1320](https://github.com/baonguyen1320)
 
