@@ -1,8 +1,3 @@
-#### Name: [Dwiky Chandra](https://github.com/dwikychandra21)
-- Place: Indonesia
-- Bio: Student and Frontend Developer
-- GitHub: [dwikychandra21](https://github.com/dwikychandra21)
-
 #### Name: [Mukhammad Akbar](https://codelatte.org/)
 - Place: Indonesiea
 - Bio: Proudly Owner if [Codelatte Indonesia](https://github.com/c0delatte).
@@ -202,3 +197,8 @@
 - Place:  Dublin, Ireland
 - Bio: Software Developer
 - GitHub: [elaineakemi](https://github.com/elaineakemi)
+
+#### Name: [Dwiky Chandra](https://github.com/dwikychandra21)
+- Place: Indonesia
+- Bio: Student and Frontend Developer
+- GitHub: [dwikychandra21](https://github.com/dwikychandra21)
