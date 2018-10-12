@@ -202,3 +202,8 @@
 - Place: Indonesia
 - Bio: Student and Frontend Developer
 - GitHub: [dwikychandra21](https://github.com/dwikychandra21)
+
+#### Name: [Fai](https://github.com/catdolls)
+- Place: Chiang Mai
+- Bio: Full stack developer
+- GitHub: [catdolls](https://github.com/catdolls)
