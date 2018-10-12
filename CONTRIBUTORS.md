@@ -202,3 +202,8 @@
 - Place: Indonesia
 - Bio: Student and Frontend Developer
 - GitHub: [dwikychandra21](https://github.com/dwikychandra21)
+
+#### Name: [Jack](https://github.com/hanadolls)
+- Place: Chiang Mai, Thailand
+- Bio: c# developer.
+- GitHub: [hanadolls](https://github.com/elaineakemi)
