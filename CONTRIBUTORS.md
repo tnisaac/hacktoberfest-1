@@ -204,6 +204,6 @@
 - GitHub: [dwikychandra21](https://github.com/dwikychandra21)
 
 #### Name: [Fai](https://github.com/catdolls)
-- Place: Chiang Mai
+- Place: Chiang Mai, Thailand
 - Bio: Full stack developer
 - GitHub: [catdolls](https://github.com/catdolls)
