@@ -135,17 +135,17 @@
 
 #### Name: [MariyaAsterisk](https://github.com/MariyaAsterisk)
 - Place: Kazan,Russia
-- Bio: VoIP engineer
+- Bio: VoIP engineer.
 - GitHub: [MariyaAsterisk](https://github.com/MariyaAsterisk)
 
 #### Name: [Vaibhav](https://github.com/vaibhav111tandon)
 - Place: India
-- Bio: Student
+- Bio: Student.
 - Github: [vaibhav111tandon](https://github.com/vaibhav111tandon)
 
 #### Name: [NIKKI BHALODIYA](https://github.com/nikki003)
 - Place: VAdodara, Gujarat, India
-- Bio: Computer Science student
+- Bio: Computer Science student.
 - GitHub: [nikki003](https://github.com/nikki003)
 
 #### Name: [Stephanie Velazquez](https://git.io/fxZKg)
@@ -160,17 +160,17 @@
 
 #### Name: [aidakarimova](https://github.com/aidakarimova)
 - Place: Russia Kazan
-- Bio: analysis
+- Bio: Analysis.
 - Github: [thepriefy](https://github.com/aidakarimova)
 
 #### Name: [Bao Nguyen](https://github.com/baonguyen1320)
 - Place: HoChiMinh, VietNam
-- Bio: Developer
+- Bio: Developer.
 - Github: [baonguyen1320](https://github.com/baonguyen1320)
 
 #### Name: [revenantkoi](https://github.com/revenantkoi)
 - Place: SC, USA
-- Bio: Developer
+- Bio: Developer.
 - GitHub: [revenantkoi](https://github.com/revenantkoi)
 
 #### Name: [capturethemoon](https://github.com/capturethemoon)
@@ -180,22 +180,22 @@
 
 #### Name: [T1grOK](https://github.com/T1grOK)
 - Place: Russia, Kazan
-- Bio: Web developer
+- Bio: Web developer.
 - GitHub: [T1grOK](https://github.com/T1grOK)
 
 #### Name: [RAVI GUPTA](https://github.com/guptaravi540)
 - Place: INDIA
-- Bio: Software Developer
+- Bio: Software Developer.
 - GitHub: [guptaravi540](https://github.com/guptaravi540)
 
 #### Name: [Elisheba Trinity](https://github.com/LishiTrinity)
 - Place:  New Mexico, USA
-- Bio: Front-end web developer
+- Bio: Front-end web developer.
 - GitHub: [LishiTrinity](https://github.com/LishiTrinity)
 
 #### Name: [Elaine Akemi](https://github.com/elaineakemi)
 - Place:  Dublin, Ireland
-- Bio: Software Developer
+- Bio: Software Developer.
 - GitHub: [elaineakemi](https://github.com/elaineakemi)
 
 #### Name: [Dwiky Chandra](https://github.com/dwikychandra21)
@@ -205,5 +205,10 @@
 
 #### Name: [Fai](https://github.com/catdolls)
 - Place: Chiang Mai, Thailand
-- Bio: Full stack developer
+- Bio: Full stack developer.
 - GitHub: [catdolls](https://github.com/catdolls)
+
+#### Name: [Jack](https://github.com/hanadolls)
+- Place: Chiang Mai, Thailand
+- Bio: C# developer.
+- GitHub: [hanadolls](https://github.com/hanadolls)
