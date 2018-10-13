@@ -212,3 +212,8 @@
 - Place: Chiang Mai, Thailand
 - Bio: C# developer.
 - GitHub: [hanadolls](https://github.com/hanadolls)
+
+#### Name: [Antonio](https://github.com/josearias210)
+- Place: Táchira, Venezuela
+- Bio: C# developer.
+- GitHub: [hanadolls](https://github.com/josearias210)
