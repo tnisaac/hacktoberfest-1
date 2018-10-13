@@ -222,3 +222,8 @@
 - Place: Ontario, Canada
 - Bio: Who knows?
 - GitHub: [NickJansenCode](https://github.com/NickJansenCode)
+
+#### Name: [Tahseen Khan](https://github.com/tahseenk2)
+- Place: Vadodara, Gujarat, India
+- Bio: Computer Science Student
+- GitHub: [taheenk2](https://github.com/tahseenk2)
