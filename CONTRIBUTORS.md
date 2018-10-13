@@ -217,3 +217,8 @@
 - Place: Táchira, Venezuela
 - Bio: C# developer.
 - GitHub: [josearias210](https://github.com/josearias210)
+
+#### Name: [NickJansenCode](https://github.com/NickJansenCode)
+- Place: Ontario, Canada
+- Bio: Who knows?
+- GitHub: [NickJansenCode](https://github.com/NickJansenCode)
