@@ -227,3 +227,8 @@
 - Place: Vadodara, Gujarat, India
 - Bio: Computer Science Student
 - GitHub: [taheenk2](https://github.com/tahseenk2)
+
+#### Name: [Bj&ouml;rn Kristensson Alfsson](https://github.com/BKristenssonAlfsson)
+- Place: Gothenburg, Sweden
+- Bio: JEE Student
+- GitHub: [Bj&ouml;rn Kristensson Alfsson](https://github.com/BKristenssonAlfsson)
