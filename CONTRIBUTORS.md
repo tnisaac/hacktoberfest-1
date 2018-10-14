@@ -227,3 +227,8 @@
 - Place: Vadodara, Gujarat, India
 - Bio: Computer Science Student
 - GitHub: [taheenk2](https://github.com/tahseenk2)
+
+#### Name: [Hogwarter](https://github.com/Hogwarter)
+- Place: Finland
+- Bio: A second-gen programmer and gamer
+- GitHub: [Hogwarter](https://github.com/Hogwarter)
