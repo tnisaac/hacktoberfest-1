@@ -228,6 +228,11 @@
 - Bio: Computer Science Student
 - GitHub: [taheenk2](https://github.com/tahseenk2)
 
+#### Name: [Bj&ouml;rn Kristensson Alfsson](https://github.com/BKristenssonAlfsson)
+- Place: Gothenburg, Sweden
+- Bio: JEE Student
+- GitHub: [Bj&ouml;rn Kristensson Alfsson](https://github.com/BKristenssonAlfsson)
+
 #### Name: [Hogwarter](https://github.com/Hogwarter)
 - Place: Finland
 - Bio: A second-gen programmer and gamer
