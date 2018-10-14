@@ -228,6 +228,11 @@
 - Bio: Computer Science Student
 - GitHub: [taheenk2](https://github.com/tahseenk2)
 
+#### Name: [Yash Rathod](https://github.com/yash25806)
+- Place: Indore, India
+- Bio: B.E Computer Science Student
+- GitHub: [Yash Rathod](https://github.com/yash25806)
+
 #### Name: [Bj&ouml;rn Kristensson Alfsson](https://github.com/BKristenssonAlfsson)
 - Place: Gothenburg, Sweden
 - Bio: JEE Student
