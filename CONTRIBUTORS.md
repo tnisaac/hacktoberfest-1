@@ -232,3 +232,8 @@
 - Place: Gothenburg, Sweden
 - Bio: JEE Student
 - GitHub: [Bj&ouml;rn Kristensson Alfsson](https://github.com/BKristenssonAlfsson)
+
+#### Name: [Hogwarter](https://github.com/Hogwarter)
+- Place: Finland
+- Bio: A second-gen programmer and gamer
+- GitHub: [Hogwarter](https://github.com/Hogwarter)
