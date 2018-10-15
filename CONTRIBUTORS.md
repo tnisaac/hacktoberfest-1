@@ -242,3 +242,8 @@
 - Place: Finland
 - Bio: A second-gen programmer and gamer
 - GitHub: [Hogwarter](https://github.com/Hogwarter)
+
+#### Name: [Dhruva](https://github.com/happycoder1)
+- Place: India
+- Bio: Android App Development.
+- GitHub: [Dhruval Shah](https://github.com/happycoder1)
