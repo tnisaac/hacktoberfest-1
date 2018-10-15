@@ -247,3 +247,8 @@
 - Place: Indonesia
 - Bio: IT Enthussiast, IT Addict
 - GitHub: [Hogwarter](https://github.com/Neticx)
+
+#### Name: [Dhruva](https://github.com/happycoder1)
+- Place: India
+- Bio: Android App Development.
+- GitHub: [Dhruval Shah](https://github.com/happycoder1)
