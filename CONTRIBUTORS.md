@@ -252,3 +252,8 @@
 - Place: India
 - Bio: Android App Development.
 - GitHub: [Dhruval Shah](https://github.com/happycoder1)
+
+#### Name: [Cholinka](https://github.com/cholinka13)
+- Place: InSlovakia
+- Bio: Student.
+- GitHub: [Cholinka](https://github.com/cholinka13)
