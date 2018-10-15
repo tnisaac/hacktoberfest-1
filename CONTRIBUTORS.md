@@ -242,3 +242,8 @@
 - Place: Finland
 - Bio: A second-gen programmer and gamer
 - GitHub: [Hogwarter](https://github.com/Hogwarter)
+
+#### Name: [Neticx](https://github.com/Neticx)
+- Place: Indonesia
+- Bio: IT Enthussiast, IT Addict
+- GitHub: [Hogwarter](https://github.com/Neticx)
