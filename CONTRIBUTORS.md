@@ -257,3 +257,8 @@
 - Place: InSlovakia
 - Bio: Student.
 - GitHub: [Cholinka](https://github.com/cholinka13)
+
+#### Name: [Lespinasse](https://github.com/llespinasse)
+- Place: Lille, France
+- Bio: Student, webdesigner, frontend developer
+- GitHub: [llespinasse](https://github.com/llespinasse)
