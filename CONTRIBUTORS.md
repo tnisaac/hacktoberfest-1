@@ -262,3 +262,8 @@
 - Place: Lille, France
 - Bio: Student, webdesigner, frontend developer
 - GitHub: [llespinasse](https://github.com/llespinasse)
+
+#### Name: [MareTenebrarum](https://github.com/MareTenebrarum)
+- Place: Minsk, Belarus
+- Bio: Student
+- GitHub: [MareTenebrarum](https://github.com/MareTenebrarum)
