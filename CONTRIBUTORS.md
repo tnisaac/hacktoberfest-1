@@ -263,6 +263,11 @@
 - Bio: Student, webdesigner, frontend developer
 - GitHub: [llespinasse](https://github.com/llespinasse)
 
+#### Name: [MareTenebrarum](https://github.com/MareTenebrarum)
+- Place: Minsk, Belarus
+- Bio: Student
+- GitHub: [MareTenebrarum](https://github.com/MareTenebrarum)
+
 #### Name: :peach: [Rosalie](https://github.com/developerpeachy) 
 - Place: Sydney, Australia :koala:
 - Bio: Student, mixed reality, frontend developer and user experience designer
