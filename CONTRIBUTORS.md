@@ -277,3 +277,8 @@
 - Place: Russia
 - Bio: Empty
 - GitHub: [carceri](https://github.com/carceri)
+
+#### Name: [Harsh](https://github.com/hr21)
+- Place: New Delhi, India
+- Bio:Machine Learning Enthusiast
+- Github: [hr21](https://github.com/hr21)
