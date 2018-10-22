@@ -268,12 +268,12 @@
 - Bio: Student
 - GitHub: [MareTenebrarum](https://github.com/MareTenebrarum)
 
-#### Name: :peach: [Rosalie](https://github.com/developerpeachy) 
+#### Name: :peach: [Rosalie](https://github.com/developerpeachy)
 - Place: Sydney, Australia :koala:
 - Bio: Student, mixed reality, frontend developer and user experience designer
 - GitHub: [llespinasse](https://github.com/developerpeachy)
 
-#### Name: [Empty](https://github.com/carceri) 
+#### Name: [Empty](https://github.com/carceri)
 - Place: Russia
 - Bio: Empty
 - GitHub: [carceri](https://github.com/carceri)
@@ -282,3 +282,8 @@
 - Place: New Delhi, India
 - Bio:Machine Learning Enthusiast
 - Github: [hr21](https://github.com/hr21)
+
+#### Name: [Fatima Mubeen](https://github.com/FatimaMubeen)
+- Place: Lahore, Pakistan
+- Bio: Final Year Student of Computer Science
+- GitHub: [Fatima Mubeen](https://github.com/FatimaMubeen)
