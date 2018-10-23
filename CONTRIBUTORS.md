@@ -282,3 +282,7 @@
 - Place: New Delhi, India
 - Bio:Machine Learning Enthusiast
 - Github: [hr21](https://github.com/hr21)
+#### Name: [Danial Hasan](https://github.com/redreaper752)
+- Place: Toronto, Canada
+- Bio: Student, frontend web developer
+- Github: [redreaper752](https://github.com/redreaper752)
