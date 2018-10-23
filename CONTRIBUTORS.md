@@ -8,6 +8,11 @@
 - Bio: i love code and design, thanks..
 - GitHub: [eginugraha](https://github.com/eginugraha)
 
+#### Name: [Vibhor Agarwal](https://github.com/vibhor98)
+- Place: India
+- Bio: I'm an Engineering student and loves to code.
+- Github [vibhor98](https://github.com/vibhor98)
+
 #### Name: [Herman](https://0dayherman.ooo)
 - Place: Indonesia
 - Bio: One mistake can make you crazy.
