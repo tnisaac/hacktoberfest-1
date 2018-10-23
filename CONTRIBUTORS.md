@@ -13,6 +13,11 @@
 - Bio:Droid head
 - Github:[ajay1706](https://github.com/ajay1706)
 
+#### Name: [Vibhor Agarwal](https://github.com/vibhor98)
+- Place: India
+- Bio: I'm an Engineering student and loves to code.
+- Github [vibhor98](https://github.com/vibhor98)
+
 #### Name: [Herman](https://0dayherman.ooo)
 - Place: Indonesia
 - Bio: One mistake can make you crazy.
@@ -132,6 +137,11 @@
 - Place: Vadodara, Gujarat, India
 - Bio: BE Student
 - GitHub: [JYP2098](https://github.com/JYP2098)
+
+#### Name: [SaranRaj](https://github.com/saranraj48)
+- Place: India
+- Bio: -
+- GitHub: [SaranRaj](https://github.com/saranraj48)
 
 #### Name: [Devam Joshi](https://github.com/Devamjoshi3)
 - Place: Vadodara, Gujarat, India
@@ -287,3 +297,23 @@
 - Place: New Delhi, India
 - Bio:Machine Learning Enthusiast
 - Github: [hr21](https://github.com/hr21)
+
+#### Name: [Steven T](https://github.com/z717)
+- Place: Minnesota of America
+- Bio: Student
+- Github: [z717](https://github.com/z717)
+
+#### Name: [Danial Hasan](https://github.com/redreaper752)
+- Place: Toronto, Canada
+- Bio: Student, frontend web developer
+- Github: [redreaper752](https://github.com/redreaper752)
+
+#### Name: [Fatima Mubeen](https://github.com/FatimaMubeen)
+- Place: Lahore, Pakistan
+- Bio: Final Year Student of Computer Science
+- GitHub: [Fatima Mubeen](https://github.com/FatimaMubeen)
+
+#### Name: [Scott Clay](https://github.com/scottclay)
+- Place: Leeds, UK
+- Bio: Data Scientist
+- Github: [scottclay](https://github.com/scottclay)
