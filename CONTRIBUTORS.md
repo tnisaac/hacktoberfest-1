@@ -8,6 +8,11 @@
 - Bio: i love code and design, thanks..
 - GitHub: [eginugraha](https://github.com/eginugraha)
 
+#### Name : [Ajay Sharma]
+- Place : INDIA
+- Bio:Droid head
+- Github:[ajay1706](https://github.com/ajay1706)
+
 #### Name: [Herman](https://0dayherman.ooo)
 - Place: Indonesia
 - Bio: One mistake can make you crazy.
@@ -268,12 +273,12 @@
 - Bio: Student
 - GitHub: [MareTenebrarum](https://github.com/MareTenebrarum)
 
-#### Name: :peach: [Rosalie](https://github.com/developerpeachy) 
+#### Name: :peach: [Rosalie](https://github.com/developerpeachy)
 - Place: Sydney, Australia :koala:
 - Bio: Student, mixed reality, frontend developer and user experience designer
 - GitHub: [llespinasse](https://github.com/developerpeachy)
 
-#### Name: [Empty](https://github.com/carceri) 
+#### Name: [Empty](https://github.com/carceri)
 - Place: Russia
 - Bio: Empty
 - GitHub: [carceri](https://github.com/carceri)
