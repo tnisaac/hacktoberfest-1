@@ -8,6 +8,11 @@
 - Bio: i love code and design, thanks..
 - GitHub: [eginugraha](https://github.com/eginugraha)
 
+#### Name: [Vibhor Agarwal](https://github.com/vibhor98)
+- Place: India
+- Bio: I'm an Engineering student and loves to code.
+- Github [vibhor98](https://github.com/vibhor98)
+
 #### Name: [Herman](https://0dayherman.ooo)
 - Place: Indonesia
 - Bio: One mistake can make you crazy.
@@ -127,6 +132,11 @@
 - Place: Vadodara, Gujarat, India
 - Bio: BE Student
 - GitHub: [JYP2098](https://github.com/JYP2098)
+
+#### Name: [SaranRaj](https://github.com/saranraj48)
+- Place: India
+- Bio: -
+- GitHub: [SaranRaj](https://github.com/saranraj48)
 
 #### Name: [Devam Joshi](https://github.com/Devamjoshi3)
 - Place: Vadodara, Gujarat, India
@@ -287,3 +297,8 @@
 - Place: Lahore, Pakistan
 - Bio: Final Year Student of Computer Science
 - GitHub: [Fatima Mubeen](https://github.com/FatimaMubeen)
+=======
+#### Name: [Scott Clay](https://github.com/scottclay)
+- Place: Leeds, UK
+- Bio: Data Scientist
+- Github: [scottclay](https://github.com/scottclay)
