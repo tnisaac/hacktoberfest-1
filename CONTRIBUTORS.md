@@ -292,3 +292,8 @@
 - Place: New Delhi, India
 - Bio:Machine Learning Enthusiast
 - Github: [hr21](https://github.com/hr21)
+
+#### Name: [Scott Clay](https://github.com/scottclay)
+- Place: Leeds, UK
+- Bio: Data Scientist
+- Github: [scottclay](https://github.com/scottclay)
