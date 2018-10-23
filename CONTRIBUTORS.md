@@ -293,11 +293,16 @@
 - Bio:Machine Learning Enthusiast
 - Github: [hr21](https://github.com/hr21)
 
+#### Name: [Danial Hasan](https://github.com/redreaper752)
+- Place: Toronto, Canada
+- Bio: Student, frontend web developer
+- Github: [redreaper752](https://github.com/redreaper752)
+
 #### Name: [Fatima Mubeen](https://github.com/FatimaMubeen)
 - Place: Lahore, Pakistan
 - Bio: Final Year Student of Computer Science
 - GitHub: [Fatima Mubeen](https://github.com/FatimaMubeen)
-=======
+
 #### Name: [Scott Clay](https://github.com/scottclay)
 - Place: Leeds, UK
 - Bio: Data Scientist
