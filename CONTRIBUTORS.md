@@ -128,6 +128,11 @@
 - Bio: BE Student
 - GitHub: [JYP2098](https://github.com/JYP2098)
 
+#### Name: [SaranRaj](https://github.com/saranraj48)
+- Place: India
+- Bio: -
+- GitHub: [SaranRaj](https://github.com/saranraj48)
+
 #### Name: [Devam Joshi](https://github.com/Devamjoshi3)
 - Place: Vadodara, Gujarat, India
 - Bio: Computer Science Student
