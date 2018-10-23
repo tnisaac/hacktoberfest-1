@@ -8,6 +8,11 @@
 - Bio: i love code and design, thanks..
 - GitHub: [eginugraha](https://github.com/eginugraha)
 
+#### Name : [Ajay Sharma]
+- Place : INDIA
+- Bio:Droid head
+- Github:[ajay1706](https://github.com/ajay1706)
+
 #### Name: [Vibhor Agarwal](https://github.com/vibhor98)
 - Place: India
 - Bio: I'm an Engineering student and loves to code.
