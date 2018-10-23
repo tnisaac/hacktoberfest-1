@@ -282,3 +282,8 @@
 - Place: New Delhi, India
 - Bio:Machine Learning Enthusiast
 - Github: [hr21](https://github.com/hr21)
+
+#### Name: [Steven T](https://github.com/z717)
+- Place: Minnesota of America
+- Bio: Student
+- Github: [z717](https://github.com/z717)
