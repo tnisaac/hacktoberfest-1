@@ -8,6 +8,11 @@
 - Bio: i love code and design, thanks..
 - GitHub: [eginugraha](https://github.com/eginugraha)
 
+#### Name: [Vibhor Agarwal](https://github.com/vibhor98)
+- Place: India
+- Bio: I'm an Engineering student and loves to code.
+- Github [vibhor98](https://github.com/vibhor98)
+
 #### Name: [Herman](https://0dayherman.ooo)
 - Place: Indonesia
 - Bio: One mistake can make you crazy.
@@ -127,6 +132,11 @@
 - Place: Vadodara, Gujarat, India
 - Bio: BE Student
 - GitHub: [JYP2098](https://github.com/JYP2098)
+
+#### Name: [SaranRaj](https://github.com/saranraj48)
+- Place: India
+- Bio: -
+- GitHub: [SaranRaj](https://github.com/saranraj48)
 
 #### Name: [Devam Joshi](https://github.com/Devamjoshi3)
 - Place: Vadodara, Gujarat, India
@@ -268,12 +278,12 @@
 - Bio: Student
 - GitHub: [MareTenebrarum](https://github.com/MareTenebrarum)
 
-#### Name: :peach: [Rosalie](https://github.com/developerpeachy) 
+#### Name: :peach: [Rosalie](https://github.com/developerpeachy)
 - Place: Sydney, Australia :koala:
 - Bio: Student, mixed reality, frontend developer and user experience designer
 - GitHub: [llespinasse](https://github.com/developerpeachy)
 
-#### Name: [Empty](https://github.com/carceri) 
+#### Name: [Empty](https://github.com/carceri)
 - Place: Russia
 - Bio: Empty
 - GitHub: [carceri](https://github.com/carceri)
@@ -287,3 +297,18 @@
 - Place: Minnesota of America
 - Bio: Student
 - Github: [z717](https://github.com/z717)
+
+#### Name: [Danial Hasan](https://github.com/redreaper752)
+- Place: Toronto, Canada
+- Bio: Student, frontend web developer
+- Github: [redreaper752](https://github.com/redreaper752)
+
+#### Name: [Fatima Mubeen](https://github.com/FatimaMubeen)
+- Place: Lahore, Pakistan
+- Bio: Final Year Student of Computer Science
+- GitHub: [Fatima Mubeen](https://github.com/FatimaMubeen)
+
+#### Name: [Scott Clay](https://github.com/scottclay)
+- Place: Leeds, UK
+- Bio: Data Scientist
+- Github: [scottclay](https://github.com/scottclay)
