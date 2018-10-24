@@ -317,3 +317,8 @@
 - Place: Leeds, UK
 - Bio: Data Scientist
 - Github: [scottclay](https://github.com/scottclay)
+
+#### Name: [Noah Kiss](https://github.com/noahkiss)
+- Place: NE USA
+- Bio: student
+- GitHub: [noahkiss](https://github.com/noahkiss)
