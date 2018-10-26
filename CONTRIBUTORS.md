@@ -1,4 +1,4 @@
-#### Name: [Mukhammad Akbar](https://codelatte.org/)
+﻿#### Name: [Mukhammad Akbar](https://codelatte.org/)
 - Place: Indonesiea
 - Bio: Proudly Owner of [Codelatte Indonesia](https://github.com/c0delatte).
 - GitHub: [Abay](https://github.com/abaykan)
@@ -322,3 +322,8 @@
 - Place: NE USA
 - Bio: student
 - GitHub: [noahkiss](https://github.com/noahkiss)
+
+#### Name: [Joamar Derije](https://github.com/joamarderije)
+- Place: Manila, Philippines
+- Bio: Unemployed
+- GitHub: [joamarderije](https://github.com/joamarderije)
