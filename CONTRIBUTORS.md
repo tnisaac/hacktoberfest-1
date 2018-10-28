@@ -338,3 +338,8 @@
 - Bio: Mechatronic Engineering Student
 - GitHub: [EgehanGundogdu](https://github.com/EgehanGundogdu)
 
+#### Name: [Jigyesh Rathod](https://github.com/rjigyesh7)
+- Place: Indore,India
+- Bio: Information Technology Student
+- GitHub: [rjigyesh7](https://github.com/rjigyesh7)
+
