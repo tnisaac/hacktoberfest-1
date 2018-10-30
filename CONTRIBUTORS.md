@@ -343,3 +343,12 @@
 - Bio: Information Technology Student
 - GitHub: [rjigyesh7](https://github.com/rjigyesh7)
 
+#### Name: [Drew Ku](https://github.com/Drookoo)
+- Place: New York, USA
+- Bio: Student 
+- Github: [Drookoo](https://github.com/Drookoo)
+
+#### Name: [Passawat Noraman](https://github.com/tmteamz)
+- Place: Thailand
+- Bio: Student
+- GitHub: [tmteamz](https://github.com/tmteamz)
