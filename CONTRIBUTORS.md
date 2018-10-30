@@ -352,3 +352,8 @@
 - Place: Thailand
 - Bio: Student
 - GitHub: [tmteamz](https://github.com/tmteamz)
+
+#### Name: [Dimas Fariski](https://github.com/TukangSihir)
+- Place: Indonesia
+- Bio: Student
+- Github: [TukangSihir](https://github.com/TukangSihir)
