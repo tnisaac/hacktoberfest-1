@@ -368,3 +368,8 @@
 - Place: Australia
 - Bio: Programmer
 - Github: [Jack Noordhuis](https://github.com/JackNoordhuis)
+
+#### Name: [tnisaac](https://github.com/tnisaac)
+- Place: Japan
+- Bio: Software engineer
+- Github: [tnisaac](https://github.com/tnisaac)
