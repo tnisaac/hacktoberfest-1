@@ -363,3 +363,8 @@
 - Place: UK
 - Bio: Student
 - Github: [cowlingj](https://github.com/cowlingj)
+
+#### Name: [Jack Noordhuis](https://github.com/JackNoordhuis)
+- Place: Australia
+- Bio: Programmer
+- Github: [Jack Noordhuis](https://github.com/JackNoordhuis)
